@@ -9,7 +9,7 @@ tags:
 So, I installed [nix](https://nixos.org/) operating system, upon using it as a package manager for some time in my fedora installation.
 
 ## Installation
-I used the Graphical ISO image to install the nix using the graphical installer but installed with no desktop. I was dropped in to the TTY and the fun began. I completely setup the distribution using just the `/etc/nixos/configuration.nix` though there are other methods like [home manager](https://nix-community.github.io/home-manager/),  [nix flakes](https://nixos.wiki/wiki/Flakes) with different nix commands like nix-shell that helps to create a nix development environment, [developing in a nix environment](thoughts/developing%20in%20a%20nix%20environment.md) makes it easier to keep track of what the dev is installing for the source to build correctly.
+I used the Graphical ISO image to install the nix using the graphical installer but installed with no desktop. I was dropped in to the TTY and the fun began. I completely setup the distribution using just the `/etc/nixos/configuration.nix` though there are other methods like [home manager](https://nix-community.github.io/home-manager/),  [nix flakes](https://nixos.wiki/wiki/Flakes) with different nix commands like nix-shell that helps to create a nix development environment, [developing in a nix environment](nodes/developing%20in%20a%20nix%20environment.md) makes it easier to keep track of what the dev is installing for the source to build correctly.
 
 ## Setup
 
@@ -84,7 +84,7 @@ Allows unfree packages.
 ```
 
 4. Internationalization  
-Sets the locale and other settings to `en_US.UTF-8` and enabling [fcitx](thoughts/fcitx.md) for `m17n` that helps to type in  other languages.
+Sets the locale and other settings to `en_US.UTF-8` and enabling [fcitx](nodes/fcitx.md) for `m17n` that helps to type in  other languages.
 ```nix
 # Select internationalisation properties.
   i18n.defaultLocale = "en_US.UTF-8";
@@ -283,7 +283,7 @@ Installs the specified packages for a minimal sway desktop.
 ```
 
 14. Podman  
-Enables podman for distrobox and sets required configurations to use [containerized ros](thoughts/containerized%20ros.md) and other packages not in the nixos repos.
+Enables podman for distrobox and sets required configurations to use [containerized ros](nodes/containerized%20ros.md) and other packages not in the nixos repos.
 ```nix
 # Enabling Podman
   virtualisation = {

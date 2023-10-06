@@ -18,4 +18,4 @@ https://scientiac.tildeteam.net
 https://scientiac.tilde.site  
 https://scientiac.tild3.org  
 
-I also have a [list of sites](thoughts/list%20of%20sites.md) that i find interesting or informative.
+I also have a [list of sites](nodes/list%20of%20sites.md) that i find interesting or informative.

@@ -32,7 +32,7 @@ Ubuntu 22.04 Container
 
 ### Installation Procedure
 
-1. Install `docker`, `podman`, and [distrobox](thoughts/distrobox.md).
+1. Install `docker`, `podman`, and [distrobox](nodes/distrobox.md).
 2. Run the following command to make a distro container for Ubuntu 22.04:
 ```bash
 distrobox-create --name ros --image ubuntu:22.04
