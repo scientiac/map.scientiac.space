@@ -20,6 +20,9 @@ Mapping how a blog is structured.
 An unique implementation of navigation menu using SVG.  
 [SVG Navigation](https://spenc.es/)     
 
+Fit images in a mosaic.
+[mosaicfit][https://mosaicfit.page/]
+
 ## Resources
 
 A guide to SVG animations using SMIL.  
