@@ -26,7 +26,7 @@ tags:
 
 Hi I am a tinkerer, this is a [map](nodes/map.md) of things I am working on.
 
-Despite having this beautiful site, I am more interested in the field of kernel development, operating systems and embedded programming. I love to document the process and keep it usable for future requirements and why not share it to everyone, right?
+Despite having this beautiful site, I am more interested in the field of kernel development, operating systems and embedded programming. I love to document the process and keep it usable for future requirements, and why not share it to everyone, right?
 
 
 <div style="visibility: hidden">
