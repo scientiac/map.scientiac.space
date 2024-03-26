@@ -33,11 +33,11 @@ Additionally:
 
 #### Materials:
 
-![linux.html](nodes/images/linux.html)
+[linux.html](nodes/images/linux.html)
 
-![open_source.odp](nodes/images/open_souce.odp)
+[open_source.odp](nodes/images/open_souce.odp)
 This was the presentation presented by Justin Flory (Community Architect, Fedora) on GNOME.Asia, Kathmandu introducing everyone to Open Source.
 
-![kde.odp](nodes/images/kde.odp)
+[kde.odp](nodes/images/kde.odp)
 
 [Some Photos (Google Photos)](https://photos.app.goo.gl/Y8SoCBgAherXZue56)
