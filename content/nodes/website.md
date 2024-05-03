@@ -9,7 +9,7 @@ I have websites and redirects all over the place.
 
 My main site [scientiac.space](https://scientiac.space) is accessible from many places:
 
-https://scientiac.github.io
+https://scientiac.github.io  
 https://scientiac.fuckup.club  
 https://scientiac.nand.sh  
 https://scientiac.tilde.team  
