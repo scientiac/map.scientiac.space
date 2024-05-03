@@ -44,3 +44,8 @@ Using the [nix operating system](nodes/nixOS.md), [nix language](https://nixos.o
 > Smartphone automation
 
 Using [Termux API](nodes/Termux%20API.md) and android's `adb` to make things interesting.
+
+### [student things](nodes/notes.md)
+> Applications, Programs and All
+
+A list of [student programs](nodes/student%20programs.md) and some [notes](nodes/notes.md)
