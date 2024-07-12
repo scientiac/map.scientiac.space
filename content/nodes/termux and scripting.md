@@ -26,3 +26,6 @@ Connect to termux from your computer.
 
 7. [CLI Tools](nodes/CLI%20Tools.md)
 Cool CLI tools that you didn't know that you needed.
+
+8. [Unlimited Photos Backup Workaround](Unlimited%20Photos%20Backup%20Workaround)
+A way to backup photos in google photos if you have an old google pixel.
