@@ -40,7 +40,7 @@ With focus on readability, my website [scientiac.space](https://scientiac.space)
 
 Using the [nix operating system](nodes/nixOS.md), [nix language](https://nixos.org/manual/nix/stable/language/index.html), and the [nix package manager](https://nixos.org/manual/nix/stable/package-management/basic-package-mgmt.html).
 
-### [termux, scripting, and hacks](nodes/termux%20and%20scripting.md)
+### [termux, scripting, and hacks](nodes/Termux,%20Scripting%20and%20Hacks.md)
 > Smartphone automation
 
 Using [Termux API](nodes/Termux%20API.md) and android's `adb` to make things interesting.
