@@ -29,3 +29,6 @@ Cool CLI tools that you didn't know that you needed.
 
 8. [Unlimited Photos Backup Workaround](nodes/unlimited%20photos%20backup%20workaround.md)
 A way to backup photos in google photos if you have an old google pixel.
+
+9. [MPD Server on Termux](nodes/MPD%20Server%20on%20Termux)
+Plan music using MPD with termux, and M.A.L.P. on android.
