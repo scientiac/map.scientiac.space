@@ -22,4 +22,16 @@ You should be able to sync your photos from your new phone to your old phone per
 7. The photos should sync when both devices are in the same network, but the storage of the Old Pixel Phone will be occupied hence periodically click on the `free up space on this device` option in google photos on the Old Pixel Phone to prevent filling up the space and stopping the sync.
 8. Enjoy unlimited photos and video storage.
 
+#### Settings for Device in Syncthing
+1. For the sending device when adding a folder to sync, choose the `Folder Type` as `Send Only` and set `File Pull Order` to `Newest First`, and don't forget to toggle the paired device on.
+2. For the receiving device when accepting the sync folder, choose the `Folder Type` as `Receive Only` and `File Pull Order` to `Newest First`.
+   
+#### Using Tailscale to Sync Beyond Local Network
+> Make sure everything is connected and working in syncthing before trying this. Also setup your devices to connect with tailscale first.
+ 
+1. On the sending device, go to `Devices` and select your receiver device.
+		- After the name of the device, there is an option to put the link, put `tcp://<receiving-device-address(tailscale)>:22000` and save it.
+2. On the receiving device, go to `Devices` and select your sender device.
+		- After the name of the device, there is an option to put the link, put `tcp://<sender-device-address(tailscale)>:22000` and save it.
+
 > Here "An Old Pixel Phone" can be a phone with a Custom Pixel OS ported ROM with Unlimited Photos enabled or a rooted android with equivalent module installed.

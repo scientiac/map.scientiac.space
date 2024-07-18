@@ -27,7 +27,7 @@ Connect to termux from your computer.
 7. [CLI Tools](nodes/CLI%20Tools.md)
 Cool CLI tools that you didn't know that you needed.
 
-8. [Unlimited Photos Backup Workaround](nodes/unlimited%20photos%20backup%20workaround.md)
+8. [Unlimited Photos Backup Workaround](nodes/Unlimited%20Photos%20Backup%20Workaround.md)
 A way to backup photos in google photos if you have an old google pixel.
 
 9. [MPD Server on Termux](nodes/MPD%20Server%20on%20Termux)
