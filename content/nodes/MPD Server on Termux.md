@@ -1,3 +1,10 @@
+---
+title: MPD Server on Termux
+date: 2024-07-18
+tags:
+  - points
+---
+
 ## Installing mpd
 ```bash
 pkg install mpd

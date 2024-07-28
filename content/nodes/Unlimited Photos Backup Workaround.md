@@ -1,3 +1,9 @@
+---
+title: Unlimited Photos Backup Workaround
+date: 2024-07-18
+tags:
+  - points
+---
 I haven't got to test and prove that it works but, here it goes:
 
 ### Requirements

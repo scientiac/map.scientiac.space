@@ -32,3 +32,6 @@ A way to backup photos in google photos if you have an old google pixel.
 
 9. [MPD Server on Termux](nodes/MPD%20Server%20on%20Termux)
 Plan music using MPD with termux, and M.A.L.P. on android.
+
+10. [Debian Minimal Gnome Setup](nodes/Debian%20Minimal%20Gnome%20Setup.md)
+Setup Debian with Gnome consistency and and some programmer essential tools.
