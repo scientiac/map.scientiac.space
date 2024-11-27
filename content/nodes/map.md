@@ -49,3 +49,8 @@ Using [Termux API](nodes/Termux%20API.md) and android's `adb` to make things int
 > Applications, Programs and All
 
 A list of [student programs](nodes/student%20programs.md) and some [notes](nodes/notes.md)
+
+### [projects](nodes/projects.md)
+> Projects I am/I want to working/work on
+
+Like, I want to make a [fediverse server](nodes/fediverse%20server.md) or other [projects](nodes/Projects.md) like it.
