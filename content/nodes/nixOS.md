@@ -61,6 +61,12 @@ In general `nix flakes` does the following changes to the old nix workflow:
 3. Makes it easier to **install external software** that is  not yet packaged in NIxpkgs.
 4. Adds a way to **import Nix expressions from elsewhere** on the internet.
 
+In case screen glitches occur more:
+```
+amdgpu.dcdebugmask=0x10
+```
+Disables PSR (Power Saving Refresh) for displays.
+
 *Sources:*  
 [NixOS Research Paper](https://edolstra.github.io/pubs/nixos-jfp-final.pdf)  
 [Nix Research Paper](https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf)  
