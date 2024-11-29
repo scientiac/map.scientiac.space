@@ -1,3 +1,9 @@
+---
+title: KDE Network Nepal
+date: 2024-10-29
+tags:
+  - points
+---
 # Introductory Event of KDE Network, Nepal
 ## and Celebration of KDE Plasma 6 Megarelease
 
