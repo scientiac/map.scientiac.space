@@ -1,6 +1,6 @@
 ---
 title: Study OOAD
-date: 2025-03-24
+date: 2025-02-03
 tags:
   - points
 ---
