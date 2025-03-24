@@ -24,11 +24,8 @@ tags:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ```
 
-Hi I am a tinkerer, this is a [map](nodes/map.md) of things I am working on.
-
+Hi I am a tinkerer, this "was" a [map](nodes/map.md) of things I am working on. I normally sync my [exam time](nodes/exam%20time.md) scribbles here these days.
 Despite having this beautiful site, I am more interested in the field of kernel development, operating systems and embedded programming. I love to document the process and keep it usable for future requirements, and why not share it to everyone, right?
-
-
 <div style="visibility: hidden">
       <a rel="me" href="https://fosstodon.org/@scientiac">Mastodon</a>
 </div>
