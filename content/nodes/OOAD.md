@@ -17,12 +17,12 @@ tags:
 | ---- | ------------------------------- | ------------------------------------------------------------------------------------ | ----------- | --- |
 | 1    | <input type="checkbox">         | Draw a use case diagram.                                                             | 48          | 8   |
 | 2    | <input type="checkbox" checked> | Explain Dependency, Association, Aggregation, Composition, and Generalization.       | 44          | 7   |
-| 3    | <input type="checkbox">         | Describe methods for identifying conceptual classes.                                 | 18          | 4   |
+| 3    | <input type="checkbox" checked> | Describe methods for identifying conceptual classes.                                 | 18          | 4   |
 | 4    | <input type="checkbox">         | Differentiate between the conceptual model and the implementation model.             | 16          | 4   |
-| 5    | <input type="checkbox">         | Compare the OO development model with other conventional methods.                    | 16          | 4   |
+| 5    | <input type="checkbox" checked> | Compare the OO development model with other conventional methods.                    | 16          | 4   |
 | 6    | <input type="checkbox">         | Identify conceptual classes and draw a domain model.                                 | 13          | 2   |
 | 7    | <input type="checkbox">         | Conduct requirement analysis and prepare an SRS.                                     | 12          | 2   |
-| 8    | <input type="checkbox">         | Explain requirement gathering, including functional and non-functional requirements. | 11          | 2   |
+| 8    | <input type="checkbox" checked> | Explain requirement gathering, including functional and non-functional requirements. | 11          | 2   |
 | 9    | <input type="checkbox">         | Discuss the fundamental concepts of Object-Oriented (OO) principles.                 | 11          | 3   |
 | 10   | <input type="checkbox">         | Describe OOA, OOD, OOP, and their correlations.                                      | 11          | 2   |
 | 11   | <input type="checkbox">         | Define a domain model.                                                               | 10          | 2   |
