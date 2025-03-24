@@ -27,7 +27,7 @@ tags:
 | 10   | <input type="checkbox"  checked> | Describe OOA, OOD, OOP, and their correlations.                                      | 11          | 2   |
 | 11   | <input type="checkbox" checked>  | Define a domain model.                                                               | 10          | 2   |
 | 12   | <input type="checkbox">          | What are models? Why are they significant?                                           | 9           | 2   |
-| 13   | <input type="checkbox">          | Explain classes, objects, and encapsulation.                                         | 8           | 2   |
+| 13   | <input type="checkbox" checked>  | Explain classes, objects, and encapsulation.                                         | 8           | 2   |
 | 14   | <input type="checkbox">          | Discuss the differences and advantages of an OO system over a functional system.     | 6           | 3   |
 | 15   | <input type="checkbox">          | Draw a domain model.                                                                 | 6           | 1   |
 | 16   | <input type="checkbox">          | What is a use case diagram? Why is it used? Include actors and relationships.        | 6           | 4   |
