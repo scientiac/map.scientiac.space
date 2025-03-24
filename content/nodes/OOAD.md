@@ -31,7 +31,7 @@ tags:
 | 14   | <input type="checkbox">          | Discuss the differences and advantages of an OO system over a functional system.     | 6           | 3   |
 | 15   | <input type="checkbox">          | Draw a domain model.                                                                 | 6           | 1   |
 | 16   | <input type="checkbox">          | What is a use case diagram? Why is it used? Include actors and relationships.        | 6           | 4   |
-| 17   | <input type="checkbox">          | Explain contracts, conditions, and preconditions.                                    | 6           | 2   |
+| 17   | <input type="checkbox" checked>  | Explain contracts, conditions, and preconditions.                                    | 6           | 2   |
 | 18   | <input type="checkbox">          | Outline the key steps of OOAD.                                                       | 5           | 1   |
 | 19   | <input type="checkbox">          | Describe the phases of the Rational Unified Process.                                 | 4           | 1   |
 | 20   | <input type="checkbox">          | Construct a system contract.                                                         | 4           | 1   |
