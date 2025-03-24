@@ -1,6 +1,6 @@
 ---
-title: Moisture Movement in Buildings
-date: 2024-02-05
+title: Study OOAD
+date: 2025-03-24
 tags:
   - points
 ---
