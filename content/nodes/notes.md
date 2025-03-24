@@ -4,7 +4,8 @@ date: 2024-10-29
 tags:
   - points
 ---
-
+## Examtime
+1.  [Study OOAD](nodes/Study%20OOAD.md)
+## Randoms
 1. Report of [KDE Network Nepal](nodes/KDE%20Network%20Nepal.md) for organizing the Introductory Event.
 2. Research on [Moisture Movement in Buildings](nodes/Moisture%20Movement%20in%20Buildings.md)
-
