@@ -37,6 +37,6 @@ tags:
 | 20   | <input type="checkbox">          | Construct a system contract.                                                         | 4           | 1   |
 | 21   | <input type="checkbox">          | Compare association types with cardinality constraints.                              | 4           | 1   |
 | 22   | <input type="checkbox">          | Discuss the requirement process as an alternative to OOA.                            | 3           | 1   |
-| 23   | <input type="checkbox">          | Explain different views of OOAD.                                                     | 3           | 1   |
+| 23   | <input type="checkbox" checked>  | Explain different views of OOAD.                                                     | 3           | 1   |
 | 24   | <input type="checkbox">          | Describe the requirement elicitation process in OOA.                                 | 3           | 1   |
 | 25   | <input type="checkbox">          | List different types of requirements to describe object-oriented systems.            | 2           | 1   |
