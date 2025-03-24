@@ -28,7 +28,7 @@ tags:
 | 11   | <input type="checkbox" checked>  | Define a domain model.                                                               | 10          | 2   |
 | 12   | <input type="checkbox" checked>  | What are models? Why are they significant?                                           | 9           | 2   |
 | 13   | <input type="checkbox" checked>  | Explain classes, objects, and encapsulation.                                         | 8           | 2   |
-| 14   | <input type="checkbox">          | Discuss the differences and advantages of an OO system over a functional system.     | 6           | 3   |
+| 14   | <input type="checkbox" checked>  | Discuss the differences and advantages of an OO system over a functional system.     | 6           | 3   |
 | 15   | <input type="checkbox">          | Draw a domain model.                                                                 | 6           | 1   |
 | 16   | <input type="checkbox">          | What is a use case diagram? Why is it used? Include actors and relationships.        | 6           | 4   |
 | 17   | <input type="checkbox" checked>  | Explain contracts, conditions, and preconditions.                                    | 6           | 2   |
