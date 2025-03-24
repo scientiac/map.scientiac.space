@@ -16,10 +16,10 @@ tags:
 | S.No | Status                          | Question                                                                             | Total Marks | QF  |
 | ---- | ------------------------------- | ------------------------------------------------------------------------------------ | ----------- | --- |
 | 1    | <input type="checkbox">         | Draw a use case diagram.                                                             | 48          | 8   |
-| 2    | <input type="checkbox">         | Explain Dependency, Association, Aggregation, Composition, and Generalization.       | 44          | 7   |
+| 2    | <input type="checkbox" checked> | Explain Dependency, Association, Aggregation, Composition, and Generalization.       | 44          | 7   |
 | 3    | <input type="checkbox">         | Describe methods for identifying conceptual classes.                                 | 18          | 4   |
 | 4    | <input type="checkbox">         | Differentiate between the conceptual model and the implementation model.             | 16          | 4   |
-| 5    | <input type="checkbox" checked> | Compare the OO development model with other conventional methods.                    | 16          | 4   |
+| 5    | <input type="checkbox">         | Compare the OO development model with other conventional methods.                    | 16          | 4   |
 | 6    | <input type="checkbox">         | Identify conceptual classes and draw a domain model.                                 | 13          | 2   |
 | 7    | <input type="checkbox">         | Conduct requirement analysis and prepare an SRS.                                     | 12          | 2   |
 | 8    | <input type="checkbox">         | Explain requirement gathering, including functional and non-functional requirements. | 11          | 2   |
