@@ -4,5 +4,6 @@ date: 2025-03-24
 tags:
 - points
 ---
-## Examtime
-1.  [Study OOAD](nodes/Study%20OOAD.md)
+## III/II
+
+1.  [OOAD](nodes/OOAD.md)
