@@ -5,6 +5,7 @@ tags:
   - points
 ---
 ## Chapters
+4 chapters in total.
 1. Object Oriented Fundamentals
 2. Object Oriented Analysis
 3. Object Oriented Design
