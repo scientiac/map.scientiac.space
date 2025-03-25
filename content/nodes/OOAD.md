@@ -54,14 +54,14 @@ tags:
 | 8    | <input type="checkbox"> | Draw a deployment diagram.                                     | 4           | 1   |
 #### Design Patterns and Visibility
 
-| S.No | Status                     | Question                                          | Total Marks | QF |
-|------|----------------------------|---------------------------------------------------|-------------|----|
-| 1    | <input type="checkbox">    | Explain design patterns, GRASP, and MVC.          | 64          | 10 |
-| 2    | <input type="checkbox">    | Discuss pattern and object-based design, different types of patterns, and visibilities in OOD. | 32          | 5  |
-| 3    | <input type="checkbox">    | Explain design patterns and component reuse.      | 7           | 2  |
-| 4    | <input type="checkbox">    | Discuss attributes, parameter, and global visibility. | 6           | 1  |
-| 5    | <input type="checkbox">    | Explain attribute and parameter visibility.       | 2           | 1  |
-| 6    | <input type="checkbox">    | Discuss association visibility.                   | 3           | 1  |#### OOA -> OOD -> OOP
+| S.No | Status                          | Question                                                                                       | Total Marks | QF  |                        |
+| ---- | ------------------------------- | ---------------------------------------------------------------------------------------------- | ----------- | --- | ---------------------- |
+| 1    | <input type="checkbox" checked> | Explain design patterns, GRASP, and MVC.                                                       | 64          | 10  |                        |
+| 2    | <input type="checkbox">         | Discuss pattern and object-based design, different types of patterns, and visibilities in OOD. | 32          | 5   |                        |
+| 3    | <input type="checkbox">         | Explain design patterns and component reuse.                                                   | 7           | 2   |                        |
+| 4    | <input type="checkbox">         | Discuss attributes, parameter, and global visibility.                                          | 6           | 1   |                        |
+| 5    | <input type="checkbox">         | Explain attribute and parameter visibility.                                                    | 2           | 1   |                        |
+| 6    | <input type="checkbox">         | Discuss association visibility.                                                                | 3           | 1   | #### OOA -> OOD -> OOP |
 #### OOA -> OOD -> OOP
 
 | S.No | Status                  | Question                                                   | Total Marks | QF  |
