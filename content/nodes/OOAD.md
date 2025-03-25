@@ -18,7 +18,7 @@ tags:
 | 1    | <input type="checkbox">          | Draw a use case diagram.                                                             | 48          | 8   |
 | 2    | <input type="checkbox" checked>  | Explain Dependency, Association, Aggregation, Composition, and Generalization.       | 44          | 7   |
 | 3    | <input type="checkbox" checked>  | Describe methods for identifying conceptual classes.                                 | 18          | 4   |
-| 4    | <input type="checkbox">          | Differentiate between the conceptual model and the implementation model.             | 16          | 4   |
+| 4    | <input type="checkbox" checked>  | Differentiate between the conceptual model and the implementation model.             | 16          | 4   |
 | 5    | <input type="checkbox" checked>  | Compare the OO development model with other conventional methods.                    | 16          | 4   |
 | 6    | <input type="checkbox" checked>  | Identify conceptual classes and draw a domain model.                                 | 13          | 2   |
 | 7    | <input type="checkbox">          | Conduct requirement analysis and prepare an SRS.                                     | 12          | 2   |
@@ -30,11 +30,11 @@ tags:
 | 13   | <input type="checkbox" checked>  | Explain classes, objects, and encapsulation.                                         | 8           | 2   |
 | 14   | <input type="checkbox" checked>  | Discuss the differences and advantages of an OO system over a functional system.     | 6           | 3   |
 | 15   | <input type="checkbox" checked>  | Draw a domain model.                                                                 | 6           | 1   |
-| 16   | <input type="checkbox">          | What is a use case diagram? Why is it used? Include actors and relationships.        | 6           | 4   |
+| 16   | <input type="checkbox" checked>  | What is a use case diagram? Why is it used? Include actors and relationships.        | 6           | 4   |
 | 17   | <input type="checkbox" checked>  | Explain contracts, conditions, and preconditions.                                    | 6           | 2   |
-| 18   | <input type="checkbox">          | Outline the key steps of OOAD.                                                       | 5           | 1   |
+| 18   | <input type="checkbox" checked>  | Outline the key steps of OOAD.                                                       | 5           | 1   |
 | 19   | <input type="checkbox" checked>  | Describe the phases of the Rational Unified Process.                                 | 4           | 1   |
-| 20   | <input type="checkbox">          | Construct a system contract.                                                         | 4           | 1   |
+| 20   | <input type="checkbox" checked>  | Construct a system contract.                                                         | 4           | 1   |
 | 21   | <input type="checkbox" checked>  | Compare association types with cardinality constraints.                              | 4           | 1   |
 | 22   | <input type="checkbox" checked>  | Discuss the requirement process as an alternative to OOA.                            | 3           | 1   |
 | 23   | <input type="checkbox" checked>  | Explain different views of OOAD.                                                     | 3           | 1   |
