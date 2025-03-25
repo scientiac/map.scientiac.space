@@ -23,7 +23,7 @@ tags:
 | 6    | <input type="checkbox" checked>  | Identify conceptual classes and draw a domain model.                                 | 13          | 2   |
 | 7    | <input type="checkbox">          | Conduct requirement analysis and prepare an SRS.                                     | 12          | 2   |
 | 8    | <input type="checkbox" checked>  | Explain requirement gathering, including functional and non-functional requirements. | 11          | 2   |
-| 9    | <input type="checkbox">          | Discuss the fundamental concepts of Object-Oriented (OO) principles.                 | 11          | 3   |
+| 9    | <input type="checkbox" checked>  | Discuss the fundamental concepts of Object-Oriented (OO) principles.                 | 11          | 3   |
 | 10   | <input type="checkbox"  checked> | Describe OOA, OOD, OOP, and their correlations.                                      | 11          | 2   |
 | 11   | <input type="checkbox" checked>  | Define a domain model.                                                               | 10          | 2   |
 | 12   | <input type="checkbox" checked>  | What are models? Why are they significant?                                           | 9           | 2   |
