@@ -71,32 +71,32 @@ tags:
 | 3    | <input type="checkbox" checked> | Describe the process of OOA to OOD.                        | 16          | 3   |
 #### The Rest
 
-| S.No | Status                     | Question                                          | Total Marks | QF |
-|------|----------------------------|---------------------------------------------------|-------------|----|
-| 1    | <input type="checkbox">    | Discuss exception and error handling (in system implementation). | 40          | 7  |
-| 2    | <input type="checkbox">    | Explain CRC cards.                                | 31          | 9  |
-| 3    | <input type="checkbox">    | Discuss forward and reverse engineering.          | 28          | 7  |
-| 4    | <input type="checkbox">    | Explain interface and implementation in OOD and OOI/OOP. | 13          | 2  |
-| 5    | <input type="checkbox">    | Describe alternative flow of events in UML as exception handling. | 12          | 2  |
-| 6    | <input type="checkbox">    | Discuss key components of a collaboration diagram and its importance. | 12          | 2  |
-| 7    | <input type="checkbox">    | Compare sequence and collaboration diagrams.      | 9           | 2  |
-| 8    | <input type="checkbox">    | Explain model diagrams and pseudocode from a model diagram. | 8           | 1  |
-| 9    | <input type="checkbox">    | Discuss coupling and cohesion (two sides of a coin). | 8           | 2  |
-| 10   | <input type="checkbox">    | Explain definitions and methods from design class and interaction diagrams. | 6           | 1  |
-| 11   | <input type="checkbox">    | Describe the agile method.                        | 6           | 2  |
-| 12   | <input type="checkbox">    | Discuss deployment diagrams and their importance in OOD. | 5           | 1  |
-| 13   | <input type="checkbox">    | Explain object diagrams.                          | 8           | 2  |
-| 14   | <input type="checkbox">    | Discuss building blocks of UML.                   | 6           | 1  |
-| 15   | <input type="checkbox">    | Explain different views of UML.                   | 5           | 1  |
-| 16   | <input type="checkbox">    | Describe stereotypes.                             | 4           | 1  |
-| 17   | <input type="checkbox">    | Explain event types.                              | 4           | 1  |
-| 18   | <input type="checkbox">    | Discuss behavioral models.                        | 4           | 1  |
-| 19   | <input type="checkbox">    | Explain OO system development with Jevan Chakra.  | 4           | 1  |
-| 20   | <input type="checkbox">    | Discuss reactive systems and state charts.        | 4           | 1  |
-| 21   | <input type="checkbox">    | Explain data dictionaries and stability.          | 4           | 1  |
-| 22   | <input type="checkbox">    | Discuss types of interaction diagrams and their focus. | 4           | 1  |
-| 23   | <input type="checkbox">    | Explain swimlanes in activity diagrams.           | 4           | 1  |
-| 24   | <input type="checkbox">    | Discuss adornments of relations.                  | 4           | 1  |
-| 25   | <input type="checkbox">    | Explain forking and joining.                      | 3           | 1  |
-| 26   | <input type="checkbox">    | Discuss distributed system implementation issues. | 3           | 1  |
-| 27   | <input type="checkbox">    | Compare micro and macro processes in OOD.         | 3           | 1  |
+| S.No | Status                          | Question                                                                    | Total Marks | QF  |
+| ---- | ------------------------------- | --------------------------------------------------------------------------- | ----------- | --- |
+| 1    | <input type="checkbox" checked> | Discuss exception and error handling (in system implementation).            | 40          | 7   |
+| 2    | <input type="checkbox" checked> | Explain CRC cards.                                                          | 31          | 9   |
+| 3    | <input type="checkbox">         | Discuss forward and reverse engineering.                                    | 28          | 7   |
+| 4    | <input type="checkbox">         | Explain interface and implementation in OOD and OOI/OOP.                    | 13          | 2   |
+| 5    | <input type="checkbox">         | Describe alternative flow of events in UML as exception handling.           | 12          | 2   |
+| 6    | <input type="checkbox">         | Discuss key components of a collaboration diagram and its importance.       | 12          | 2   |
+| 7    | <input type="checkbox">         | Compare sequence and collaboration diagrams.                                | 9           | 2   |
+| 8    | <input type="checkbox">         | Explain model diagrams and pseudocode from a model diagram.                 | 8           | 1   |
+| 9    | <input type="checkbox">         | Discuss coupling and cohesion (two sides of a coin).                        | 8           | 2   |
+| 10   | <input type="checkbox">         | Explain definitions and methods from design class and interaction diagrams. | 6           | 1   |
+| 11   | <input type="checkbox">         | Describe the agile method.                                                  | 6           | 2   |
+| 12   | <input type="checkbox">         | Discuss deployment diagrams and their importance in OOD.                    | 5           | 1   |
+| 13   | <input type="checkbox">         | Explain object diagrams.                                                    | 8           | 2   |
+| 14   | <input type="checkbox">         | Discuss building blocks of UML.                                             | 6           | 1   |
+| 15   | <input type="checkbox">         | Explain different views of UML.                                             | 5           | 1   |
+| 16   | <input type="checkbox">         | Describe stereotypes.                                                       | 4           | 1   |
+| 17   | <input type="checkbox">         | Explain event types.                                                        | 4           | 1   |
+| 18   | <input type="checkbox">         | Discuss behavioral models.                                                  | 4           | 1   |
+| 19   | <input type="checkbox">         | Explain OO system development with Jevan Chakra.                            | 4           | 1   |
+| 20   | <input type="checkbox">         | Discuss reactive systems and state charts.                                  | 4           | 1   |
+| 21   | <input type="checkbox">         | Explain data dictionaries and stability.                                    | 4           | 1   |
+| 22   | <input type="checkbox">         | Discuss types of interaction diagrams and their focus.                      | 4           | 1   |
+| 23   | <input type="checkbox">         | Explain swimlanes in activity diagrams.                                     | 4           | 1   |
+| 24   | <input type="checkbox">         | Discuss adornments of relations.                                            | 4           | 1   |
+| 25   | <input type="checkbox">         | Explain forking and joining.                                                | 3           | 1   |
+| 26   | <input type="checkbox">         | Discuss distributed system implementation issues.                           | 3           | 1   |
+| 27   | <input type="checkbox">         | Compare micro and macro processes in OOD.                                   | 3           | 1   |
