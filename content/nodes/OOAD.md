@@ -64,11 +64,11 @@ tags:
 
 #### OOA -> OOD -> OOP
 
-| S.No | Status                  | Question                                                   | Total Marks | QF  |
-| ---- | ----------------------- | ---------------------------------------------------------- | ----------- | --- |
-| 1    | <input type="checkbox"> | Explain mapping design to code (with diagram and example). | 24          | 4   |
-| 2    | <input type="checkbox"> | Implement the design (usually a class diagram) to code.    | 33          | 5   |
-| 3    | <input type="checkbox"> | Describe the process of OOA to OOD.                        | 16          | 3   |
+| S.No | Status                          | Question                                                   | Total Marks | QF  |
+| ---- | ------------------------------- | ---------------------------------------------------------- | ----------- | --- |
+| 1    | <input type="checkbox">         | Explain mapping design to code (with diagram and example). | 24          | 4   |
+| 2    | <input type="checkbox" checked> | Implement the design (usually a class diagram) to code.    | 33          | 5   |
+| 3    | <input type="checkbox" checked> | Describe the process of OOA to OOD.                        | 16          | 3   |
 #### The Rest
 
 | S.No | Status                     | Question                                          | Total Marks | QF |
