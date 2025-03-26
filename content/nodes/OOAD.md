@@ -75,7 +75,7 @@ tags:
 | ---- | ------------------------------- | --------------------------------------------------------------------------- | ----------- | --- |
 | 1    | <input type="checkbox" checked> | Discuss exception and error handling (in system implementation).            | 40          | 7   |
 | 2    | <input type="checkbox" checked> | Explain CRC cards.                                                          | 31          | 9   |
-| 3    | <input type="checkbox">         | Discuss forward and reverse engineering.                                    | 28          | 7   |
+| 3    | <input type="checkbox" checked> | Discuss forward and reverse engineering.                                    | 28          | 7   |
 | 4    | <input type="checkbox">         | Explain interface and implementation in OOD and OOI/OOP.                    | 13          | 2   |
 | 5    | <input type="checkbox">         | Describe alternative flow of events in UML as exception handling.           | 12          | 2   |
 | 6    | <input type="checkbox">         | Discuss key components of a collaboration diagram and its importance.       | 12          | 2   |
