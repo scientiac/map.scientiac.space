@@ -42,16 +42,16 @@ tags:
 | 25   | <input type="checkbox" checked>  | List different types of requirements to describe object-oriented systems.            | 2           | 1   |
 #### Diagrams
 
-| S.No | Status                  | Question                                                       | Total Marks | QF  |
-| ---- | ----------------------- | -------------------------------------------------------------- | ----------- | --- |
-| 1    | <input type="checkbox"> | Identify classes and relationships, then draw a class diagram. | 88          | 12  |
-| 2    | <input type="checkbox"> | Draw an activity diagram.                                      | 37          | 6   |
-| 3    | <input type="checkbox"> | Draw or explain a sequence diagram.                            | 28          | 4   |
-| 4    | <input type="checkbox"> | Prepare an SSD.                                                | 27          | 5   |
-| 5    | <input type="checkbox"> | Draw an interaction diagram.                                   | 4           | 1   |
-| 6    | <input type="checkbox"> | Draw a component diagram.                                      | 4           | 1   |
-| 7    | <input type="checkbox"> | Draw a collaboration diagram.                                  | 5           | 1   |
-| 8    | <input type="checkbox"> | Draw a deployment diagram.                                     | 4           | 1   |
+| S.No | Status                          | Question                                                       | Total Marks | QF  |
+| ---- | ------------------------------- | -------------------------------------------------------------- | ----------- | --- |
+| 1    | <input type="checkbox" checked> | Identify classes and relationships, then draw a class diagram. | 88          | 12  |
+| 2    | <input type="checkbox" checked> | Draw an activity diagram.                                      | 37          | 6   |
+| 3    | <input type="checkbox" checked> | Draw or explain a sequence diagram.                            | 28          | 4   |
+| 4    | <input type="checkbox" checked> | Prepare an SSD.                                                | 27          | 5   |
+| 5    | <input type="checkbox" checked> | Draw an interaction diagram.                                   | 4           | 1   |
+| 6    | <input type="checkbox" checked> | Draw a component diagram.                                      | 4           | 1   |
+| 7    | <input type="checkbox" checked> | Draw a collaboration diagram.                                  | 5           | 1   |
+| 8    | <input type="checkbox" checked> | Draw a deployment diagram.                                     | 4           | 1   |
 #### Design Patterns and Visibility
 
 | S.No | Status                          | Question                                                                                       | Total Marks | QF  |
